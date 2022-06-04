@@ -4,8 +4,10 @@
 ## Hi, I'm Haillie Jo  👋
 
 I'm a junior software developer from Korea, currently living in Vancouver, Canada!
-Also, I'm looking for a position at a company where I can continue to grow and take on new challenges over time.
-I'd like to take on more front-end development responsibilities, and build a career.
+<br />Also, I'm looking for a position at a company where I can continue to grow and take on new challenges over time.
+<br />I'd like to take on more front-end development responsibilities, and build a career.
+
+
 
 <a href="https://linkedin.com/in/haesunjo" target="blank">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="haillie_jo" />
